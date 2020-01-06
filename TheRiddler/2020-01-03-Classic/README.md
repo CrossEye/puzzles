@@ -26,7 +26,7 @@ module.exports = [
   {letters: 'abcdefj', score: 161, hasPangram: false, totalWords: 47},
   {letters: 'abcdefk', score: 255, hasPangram: true, totalWords: 66},
   // ...
-  {letters: 'gaelmpx', score: 153, hasPangram: false, totalWords: 43},
+  {letters: 'gaelmpx', score: 153, hasPangram: true, totalWords: 43},
   // ...
   {letters: 'zstvwxy', score: 0, hasPangram: false, totalWords: 0},
   {letters: 'zsuvwxy', score: 0, hasPangram: false, totalWords: 0},
